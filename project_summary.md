@@ -1,33 +1,7 @@
-# Project Title
-Insert the name of your project
+Google Art and Play by Moxte.com
 
-## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
 
-## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
 
-## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+Imagine that any art object can be interactive, anyone can de involved in performance. Imagine museums or exhibitions where artworks transform into games and games transform into art. We started that experiment. Black and white picture is not only an image, but level, where black color disappears and the white one creates terrain. Player can modify it with the help of his own fingers. The idea is to create a proper path for Yin and Yang symbol to the final destination. After the work is done, the game begins. Yin and Yang symbol moves leading by physical forces. Player is able to correct mistakes by slowing the time.
 
-[Example Link](http://www.google.com "Example Link")
-
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Example Link](http://www.google.com "Example Link")
-
-## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+Youtube Demo:  http://youtu.be/KxJkz9W5JN4
